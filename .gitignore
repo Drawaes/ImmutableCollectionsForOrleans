@@ -1,0 +1,8 @@
+**/obj
+
+**/bin
+**/*.pdb
+**/*.dll
+
+/packages
+/ImmutableCollectionSupportForOrleans
